@@ -1,6 +1,6 @@
 ## hi
 
-My name is John, I'm 15, and I like to program apps and video games.
+My name is John, I'm 16, and I like to program apps and video games.
 
 Stuff about me:
 - My favorite game ever is Portal 2
