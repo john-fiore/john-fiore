@@ -1,15 +1,17 @@
 ## hi
 
-My name is John, I'm 16, and I like to program apps and video games.
+Hello! My name is John Fiore, I am 16, and I like coding things. I typically develop games, but also apps sometimes. I am a male, and I am from the west suburbs of Chicago, IL.
 
-Stuff about me:
-- My favorite game ever is Portal 2
-- I use both Unity AND Unreal Engine
-- I am currently working on a horror game in Unreal Engine 5
-- My favorite language is C#, and my least favorite is Rust and Objective-C
-- My all-time favorite gaming console is the Nintendo Wii
-- My ultimate goal is to learn Assembly, fully develop a good game, and write my own engine
+Here's some stuff about me:
 
-My biggest inspirations when it comes to game development are John Carmack (DOOM, Quake), Warren Spector (Deus Ex, Epic Mickey), and Gabe Newell (Half-Life, Portal, TF)
+Favorite Movies: The Truman Show (#1), Requiem for a Dream, The Shining, Sinister, The Social Network
+Favorite Games: Portal 2, Half-Life 2, Cry of Fear, Epic Mickey, Super Mario Galaxy, Super Mario Bros. 3
+Favorite Coding Langs: Java, Python, C#
+Least Favorite Coding Langs: Objective-C, C++, PHP, Rust
+Favorite Gaming Console: Wii, Xbox 360
 
-I am a male, and I am from the western suburbs of Chicago, IL.
+Coding Langs I want to learn: Assembly, BASIC, C
+
+I primairly speak English and kinda Spanish, but I am currently learning Finnish.
+
+That's all
