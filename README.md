@@ -1,17 +1,22 @@
-## hi
+# Hello!
 
-Hello! My name is John Fiore, I am 16, and I like coding things. I typically develop games, but also apps sometimes. I am a male, and I am from the west suburbs of Chicago, IL.
+I'm John, a 16yo high school student from the Chicago Metro Area of Illinois, USA.
 
-Here's some stuff about me:
+I have a passion for developing games, apps, and mods for Garry's Mod. Here you can find the source code for most of those projects. I also really like movies, tv shows, and music!
 
-Favorite Movies: The Truman Show (#1), Requiem for a Dream, The Shining, Sinister, The Social Network\
-Favorite Games: Portal 2, Half-Life 2, Cry of Fear, Epic Mickey, Super Mario Galaxy, Super Mario Bros. 3\
-Favorite Coding Langs: Java, Python, C#\
-Least Favorite Coding Langs: Objective-C, C++, PHP, Rust\
-Favorite Gaming Console: Wii, Xbox 360
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
 
-Coding Langs I want to learn: Assembly, BASIC, C
+Facts about me:
+- Started programming at Age 12 (JavaScript and Python)
+- Started tinkering with game design at Age 8 via Roblox
+- Currently working on a horror game in Unity
+- I have a **burning** hatred towards Objective-C and PHP
+- My biggest inspirations are Shigeru Miyamoto (Mario), John Carmack (DOOM & Quake), and Gabe Newell (Half Life & Portal)
+- My favorite game of all time is **Portal 2**
+- My favorite movie of all time is **The Truman Show**
+- As of writing this, I am listening to **Mayonaise - The Smashing Pumpkins**
 
-I primairly speak English and kinda Spanish, but I am currently learning Finnish.
+That's all. Thanks for stopping by!
 
-That's all
+John Fiore
+11-18-2024
