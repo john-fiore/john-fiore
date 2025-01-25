@@ -1,22 +1,21 @@
-# Hello!
+# Hi
 
-I'm John, a 16yo high school student from the Chicago Metro Area of Illinois, USA.
+My name is John Fiore, I'm 16-years-old, and I am from the Chicago Suburbs of Illinois, USA. I enjoy programming, developing games, and also playing them!
 
-I have a passion for developing games, apps, and mods for Garry's Mod. Here you can find the source code for most of those projects. I also really like movies, tv shows, and music!
+I have been programming since the age of 12, typically work with **Python** and/or **Java**. However, I also use **C#** when working with Unity.
+
+This is my GitHub page, where a lot of my code will land. This README file will be updated every now and then.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
 
 Facts about me:
-- Started programming at Age 12 (JavaScript and Python)
-- Started tinkering with game design at Age 8 via Roblox
-- Currently working on a horror game in Unity
-- I have a **burning** hatred towards Objective-C and PHP
-- My biggest inspirations are Shigeru Miyamoto (Mario), John Carmack (DOOM & Quake), and Gabe Newell (Half Life & Portal)
-- My favorite game of all time is **Portal 2**
-- My favorite movie of all time is **The Truman Show**
-- As of writing this, I am listening to **Mayonaise - The Smashing Pumpkins**
+- My **favorite** language is Python.
+- I hate PHP and Ruby.
+- My favorite games are GTA 5, RDR2, Half-Life series, and Cry of Fear.
+- My favorite movie is The Truman Show.
+- I am a VR player, and I love BONEWORKS & BONELAB (to an extent).
 
 That's all. Thanks for stopping by!
 
-John Fiore
-11-18-2024
+John Fiore\
+01-24-2025
