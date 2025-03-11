@@ -11,11 +11,13 @@ This is my GitHub page, where a lot of my code will land. This README file will 
 Facts about me:
 - My **favorite** language is Python.
 - I hate PHP and Ruby.
-- My favorite games are GTA 5, RDR2, Half-Life series, and Cry of Fear.
+- My favorite games are Wii Party and Cry of Fear.
+- My favorite game console is the Wii.
+- I am a ***major*** frutiger aero enthusiast.
 - My favorite movie is The Truman Show.
 - I am a VR player, and I love BONEWORKS & BONELAB (to an extent).
 
 That's all. Thanks for stopping by!
 
 John Fiore\
-01-24-2025
+03-11-2025
