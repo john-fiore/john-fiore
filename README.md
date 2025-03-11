@@ -2,7 +2,7 @@
 
 My name is John Fiore, I'm 16-years-old, and I am from the Chicago Suburbs of Illinois, USA. I enjoy programming, developing games, and also playing them!
 
-I have been programming since the age of 12, typically work with **Python** and/or **Java**. However, I also use **C#** when working with Unity.
+I have been programming since the age of 12, and typically work with **Python** and/or **Java**. However, I also use **C#** when working with Unity.
 
 This is my GitHub page, where a lot of my code will land. This README file will be updated every now and then.
 
