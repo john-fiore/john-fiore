@@ -13,7 +13,7 @@ As of now, I use Unreal Engine 5 for game development and primarily use Java or 
 - My favorite coding languages are Java, Python, and C.
 - My least favorite languages are PHP and Ruby.
 - My favorite movie is The Truman Show.
-- My favorite bands are Tally Hall and Jamiroquai.
+- My favorite bands are [Tally Hall](https://github.com/john-fiore/john-fiore/blob/main/tallies.txt) and Jamiroquai.
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
