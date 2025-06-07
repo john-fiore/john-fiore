@@ -1,19 +1,15 @@
-# Hello & Welcome
+# Hi
 
-My name is John Fiore, I'm 16-years-old, I'm from the Chicago Suburbs of Illinois, and I have a passion for game designing and programming. I enjoy designing/programming video games and programming different desktop apps and websites.
+I am a 16-year-old programmer and game designer with a passion for developing horror games and useful (or random) desktop apps. I have been programming and developing games since the age of 12.
 
-I started programming and developing games at the Age of 12, starting with languages like JavaScript and Python, and game engines like Construct 3 and Godot. By the time I was 13-14, I began developing various games in Unity and would tinker around with Python.
+The game engine I typically use for my games is Unity, but I aspire to create my own one day. I also have extensive experience with [Godot](https://github.com/godotengine/godot).
 
-As of now, I use Unreal Engine 5 for game development and primarily use Java or Python for app development.
+When developing apps, my language of choice is typically Java or Python. I would, however, like to use C# for an app one day, and not only use it for Unity.
 
----
+Besides releasing a few GOOD games, my ultimate goal is to learn C++, as it is good for app & engine/game development - and also since I already have basic knowledge on C.
 
-5 random facts about me:
-- My favorite games are Portal 1 & 2, Half-Life 1 & 2, OSRS, Postal 2, and Quake.
-- My favorite coding languages are Java, Python, and C.
-- My least favorite languages are PHP and Ruby.
-- My favorite movie is The Truman Show.
-- My favorite bands are [Tally Hall](https://github.com/john-fiore/john-fiore/blob/main/tallies.txt) and Jamiroquai.
+Thanks for reading\
+bye
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
