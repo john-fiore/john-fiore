@@ -1,12 +1,17 @@
 # Hi
 
-I am a 16-year-old programmer and game designer with a passion for developing horror games and useful (or random) desktop apps. I have been programming and developing games since the age of 12.
+My name is John, and I am a 16-year-old programmer and game designer with a passion for developing games and desktop apps. I have been programming and developing games since the age of 12. I strive to create horror games that are *actually* scary, regular games that are fun & entertaining, and apps that are truly useful, or even random.
 
-The game engine I typically use for my games is Unity, but I aspire to create my own one day. I also have extensive experience with [Godot](https://github.com/godotengine/godot).
+As of recently, I have switched to Unreal Engine for game development, but previously used the Unity Engine, which I have years of experience with, as well as engines like [Godot](https://github.com/godotengine/godot), Construct 3, and Blitz3D.
 
-When developing apps, my language of choice is typically Java or Python. I would, however, like to use C# for an app one day, and not only use it for Unity.
+When it comes to programming, I primarily use Python or Java, but it depends on the nature and "heftiness" of the app. However, I do have experience with C#, C, C++, the three webdev languages (HTML, CSS, & JavaScript), and a bit of BASIC. I also have VERY MINOR experience with x86 Assembly, but I am not great at it and do not use it often.
 
-Besides releasing a few GOOD games, my ultimate goal is to learn C++, as it is good for app & engine/game development - and also since I already have basic knowledge on C.
+__My main goals for this career are:__
+- Learn more of C++<sup>1</sup> and C
+- Release at least a few *good* games
+- Bring someone joy with one of my projects
+
+<sup>1</sup>I absolutely *despise* C++, but I am willing to learn it for future projects.
 
 Thanks for reading\
 bye
