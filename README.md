@@ -11,10 +11,11 @@ __My main goals for this career are:__
 - Release at least a few *good* games
 - Bring someone joy with one of my projects
 
-<sup>1</sup>I absolutely *despise* C++, but I am willing to learn it for future projects.
+__5 random facts about me:__
+- I'm a big fan of NIИ & KMFDM.
+- My favorite language is Python, and my least favorite is PHP. 
+- My favorite movie is **The Truman Show**.
+- The game I have the most hours on is **Garry's Mod**.
+- Ich lerne Deutsch!
 
-Thanks for reading\
-bye
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
+k thankz bye
