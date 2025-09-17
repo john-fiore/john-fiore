@@ -6,7 +6,7 @@ Outside of development, however, I love playing video games, watching movies, an
 
 As of right now, I am working on a **horror game** in the [Godot Engine](https://github.com/godotengine/godot), but also have extensive experience with Unity and little experience with Unreal Engine 4 & 5. I also have a small amount of experience with the ancient **Blitz3D engine**, which I first started tinkering with at 13-14 on a really old computer.
 
-For programming, I mainly use **Java** and **Python**, but I also have experience with other languages like Webdev, C, C#, and C++ (although this is not a preference of mine).
+For programming, I mainly use **Java** and **Python**, but I also have experience with other languages like Webdev, C, C#, and C++ (although this is not a preference of mine). I intend on making GUI-based apps, but also have/will make some basic CLI-based apps as well - most of which won't be of "serious use."
 
 ---
 
