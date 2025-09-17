@@ -6,6 +6,8 @@ Outside of development, however, I love playing video games, watching movies, an
 
 As of right now, I am working on a **horror game** in the [Godot Engine](https://github.com/godotengine/godot), but also have extensive experience with Unity and little experience with Unreal Engine 4 & 5. I also have a small amount of experience with the ancient **Blitz3D engine**, which I first started tinkering with at 13-14 on a really old computer.
 
+For programming, I mainly use **Java** and **Python**, but I also have experience with other languages like Webdev, C, C#, and C++ (although this is not a preference of mine).
+
 ---
 
 As of right now, I don't have much that I'd say is "worthy of recognition," besides my website [GradeCalc](https://john-fiore.github.io/GradeCalc), which is an academic-based percentage, or grading, calculator. You can also find its source code here on my page.
