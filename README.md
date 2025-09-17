@@ -1,21 +1,15 @@
 # Hi
 
-My name is John, and I am a 16-year-old programmer and game designer with a passion for developing games and desktop apps. I have been programming and developing games since the age of 12. I strive to create horror games that are *actually* scary, regular games that are fun & entertaining, and apps that are truly useful, or even random.
+My name is John, I'm 17, and I have a passion for programming, game design, and music. I have been programming and tinkering with game design since the age of 12, and have experience in numerous languages and engines. 
 
-As of recently, I have switched to Unreal Engine for game development, but previously used the Unity Engine, which I have years of experience with, as well as engines like [Godot](https://github.com/godotengine/godot), Construct 3, and Blitz3D.
+Outside of development, however, I love playing video games, watching movies, and music (in fact, I am an aspiring musician too!). I love horror games, FPS games, and a few different music genres; which right now is industrial, DSBM (read that carefully please), and a lot of more-so instrumental music (soundtracks, classical, etc.)
 
-When it comes to programming, I primarily use Python or Java, but it depends on the nature and "heftiness" of the app. However, I do have experience with C#, C, C++, the three webdev languages (HTML, CSS, & JavaScript), and a bit of BASIC. I also have VERY MINOR experience with x86 Assembly, but I am not great at it and do not use it often.
+As of right now, I am working on a **horror game** in the [Godot Engine](https://github.com/godotengine/godot), but also have extensive experience with Unity and little experience with Unreal Engine 4 & 5. I also have a small amount of experience with the ancient **Blitz3D engine**, which I first started tinkering with at 13-14 on a really old computer.
 
-__My main goals for this career are:__
-- Learn more of C++<sup>1</sup> and C
-- Release at least a few *good* games
-- Bring someone joy with one of my projects
+---
 
-__5 random facts about me:__
-- I'm a big fan of NIИ & KMFDM.
-- My favorite language is Python, and my least favorite is PHP. 
-- My favorite movie is **The Truman Show**.
-- The game I have the most hours on is **Garry's Mod**.
-- Ich lerne Deutsch!
+As of right now, I don't have much that I'd say is "worthy of recognition," besides my website [GradeCalc](https://john-fiore.github.io/GradeCalc), which is an academic-based percentage, or grading, calculator. You can also find its source code here on my page.
 
-k thankz bye
+Anyway, that is all. Thank you for reading!
+
+<sup>Last Updated: Sep. 16, 2025</sup>
