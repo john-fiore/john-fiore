@@ -1,17 +1,13 @@
 # Hi
 
-My name is John, I'm 17, and I have a passion for programming, game design, and music. I have been programming and tinkering with game design since the age of 12, and have experience in numerous languages and engines. 
+I'm a 17-year-old high school student from the Chicago suburbs, and I have a passion for programming, game design, video games, and music. I've been programming and tinkering with game design since the age of 12, and have experience in numerous languages and engines.
 
-Outside of development, however, I love playing video games, watching movies, and music (in fact, I am an aspiring musician too!). I love horror games, FPS games, and a few different music genres; which right now is industrial, DSBM (read that carefully please), and a lot of more-so instrumental music (soundtracks, classical, etc.)
+My programming languages of choice are **Python** and **Java**, but have experience with Webdev, C, C++, and C#.
 
-As of right now, I am working on a **horror game** in the [Godot Engine](https://github.com/godotengine/godot), but also have extensive experience with Unity and little experience with Unreal Engine 4 & 5. I also have a small amount of experience with the ancient **Blitz3D engine**, which I first started tinkering with at 13-14 on a really old computer.
-
-For programming, I mainly use **Java** and **Python**, but I also have experience with other languages like Webdev, C, C#, and C++ (although this is not a preference of mine). I intend on making GUI-based apps, but also have/will make some basic CLI-based apps as well - most of which won't be of "serious use."
+My game engine of choice is [Godot](https://github.com/godotengine/godot), but have experience with Unity and Unreal Engine.
 
 ---
 
-As of right now, I don't have much that I'd say is "worthy of recognition," besides my website [GradeCalc](https://john-fiore.github.io/GradeCalc), which is an academic-based percentage, or grading, calculator. You can also find its source code here on my page.
+As of now, I am developing a psychological horror game in **Godot** inspired by other horror games like *Amnesia: The Dark Descent* and *Silent Hill 2*. I am mainly doing this project solo, and have not made anything relating to the game itself public - nor do I plan on doing so.
 
-Anyway, that is all. Thank you for reading!
-
-<sup>Last Updated: Sep. 16, 2025</sup>
+<sup>Last Updated: Sep. 20, 2025</sup>
