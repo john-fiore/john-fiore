@@ -7,3 +7,5 @@ I also occasionally create mods for [Garry's Mod](https://steamcommunity.com/id/
 
 **Engines of Choice:** Unity, Godot\
 **Languages of Choice:** Webdev (HTML, JS, CSS), Python, Java
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-fiore)](https://github.com/anuraghazra/github-readme-stats)
